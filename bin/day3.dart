@@ -1,6 +1,6 @@
 void main(){
 
 
-print("hellow");
+print("hello class from VS");
 
 }
